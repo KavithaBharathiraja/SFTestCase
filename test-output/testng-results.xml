@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-04T20:49:07 PDT" name="Default suite" finished-at="2024-06-04T20:54:26 PDT" duration-ms="318947">
+    <groups>
+    </groups>
+    <test started-at="2024-06-04T20:49:07 PDT" name="Default test" finished-at="2024-06-04T20:54:26 PDT" duration-ms="318947">
+      <class name="SF_Tests.AccountsTest">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:SF_Tests.AccountsTest@272113c4]" started-at="2024-06-04T20:49:07 PDT" name="BeforeMethod" finished-at="2024-06-04T20:49:18 PDT" duration-ms="11284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="AccountCreation()[pri:0, instance:SF_Tests.AccountsTest@272113c4]" started-at="2024-06-04T20:49:18 PDT" name="AccountCreation" finished-at="2024-06-04T20:54:26 PDT" duration-ms="307539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountCreation -->
+      </class> <!-- SF_Tests.AccountsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
